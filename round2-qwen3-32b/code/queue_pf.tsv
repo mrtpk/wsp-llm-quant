@@ -1,0 +1,6 @@
+pf_mix_asym_W3_late50_s0	python -m r2.p2 build pf_mix_asym_W3_late50@s0
+pf_mix_asym_W3_late50_s1	python -m r2.p2 build pf_mix_asym_W3_late50@s1
+pf_mix_asym_W3g64_late58_s0	python -m r2.p2 build pf_mix_asym_W3g64_late58@s0
+pf_mix_asym_W3g64_late58_s1	python -m r2.p2 build pf_mix_asym_W3g64_late58@s1
+pf_ours_W4A4KV4_g32_V4_s0	python -m r2.p2 build pf_ours_W4A4KV4_g32_V4@s0
+pf_ours_W4A4KV4_g32_V4_s1	python -m r2.p2 build pf_ours_W4A4KV4_g32_V4@s1

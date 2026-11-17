@@ -1,0 +1,13 @@
+task: boolq_dev
+dataset_path: aps/super_glue
+dataset_name: boolq
+output_type: multiple_choice
+test_split: train
+process_docs: !function utils.sample500
+doc_to_text: "{{passage}}\nQuestion: {{question}}?\nAnswer:"
+doc_to_target: label
+doc_to_choice: ["no", "yes"]
+metric_list:
+  - metric: acc
+metadata:
+  version: 2.0

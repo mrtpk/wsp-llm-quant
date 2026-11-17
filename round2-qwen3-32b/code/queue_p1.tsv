@@ -1,0 +1,9 @@
+p1_attrib_type	python -m r2.profile attrib_type
+p1_actstats	python -m r2.profile actstats
+p1_attrib_layer	python -m r2.profile attrib_layer
+p1_sens_w	python -m r2.profile sens_w
+p1_wstats	python -m r2.profile wstats
+p1_prop	python -m r2.profile prop
+p1_sens_a	python -m r2.profile sens_a
+p1_outlier	python -m r2.profile outlier
+p1_attrib_lt	python -m r2.profile attrib_lt

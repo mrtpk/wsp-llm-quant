@@ -1,0 +1,2 @@
+p0_ppl	python -m r2.sanity --part ppl
+p0_zs	python -m r2.sanity --part zs
